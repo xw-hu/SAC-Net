@@ -33,7 +33,7 @@ Please find the predicted saliency maps on the ECSSD, PASCAL-S, SOD, HKU-IS, DUT
 
 Download the ResNet-101 or ResNet-50 model trained on the ImageNet and put this model in `CF-Caffe/models/`.
 
-1. Enter the `./examples/SAC-Net/SAC-Net-res101/` or  `./examples/SAC-Net/SAC-Net-res50/`
+1. Enter the `./examples/SAC-Net/SAC-Net-res101/` or  `./examples/SAC-Net/SAC-Net-res50/`.
    Modify the image path in `train_val.prototxt`.
 
 2. Run   
