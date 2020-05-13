@@ -1,7 +1,7 @@
 # SAC-Net: Spatial Attenuation Context for Salient Object Detection
 
 
-by Xiaowei Hu, Chi-Wing Fu, Lei Zhu, Tianyu Wang, and Pheng-Ann Heng
+by Xiaowei Hu, Chi-Wing Fu, Lei Zhu, Tianyu Wang, and Pheng-Ann Heng.
 
 This implementation is written by Xiaowei Hu at the Chinese University of Hong Kong.
 
