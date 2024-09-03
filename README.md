@@ -8,14 +8,17 @@ This implementation is written by Xiaowei Hu at the Chinese University of Hong K
 ***
 
 ## Citation
-
-@article{hu2020sac,                  
-&nbsp;&nbsp;&nbsp;&nbsp;  author = {Hu, Xiaowei and Fu, Chi-Wing and Zhu, Lei and Wang, Tianyu and Heng, Pheng-Ann},      
-&nbsp;&nbsp;&nbsp;&nbsp;  title = {SAC-Net: Spatial Attenuation Context for Salient Object Detection},      
-&nbsp;&nbsp;&nbsp;&nbsp;  journal = {IEEE Transactions on Circuits and Systems for Video Technology},        
-&nbsp;&nbsp;&nbsp;&nbsp;  year = {2020},                     
-&nbsp;&nbsp;&nbsp;&nbsp;  note = {to appear},                    
+```
+@article{hu2021sac,
+  title={{SAC-Net}: Spatial attenuation context for salient object detection},
+  author={Hu, Xiaowei and Fu, Chi-Wing and Zhu, Lei and Wang, Tianyu and Heng, Pheng-Ann},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology},
+  volume={31},
+  number={3},
+  pages={1079--1090},
+  year={2021}
 }
+```
    
 ## Saliency Maps
 
