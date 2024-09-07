@@ -46,8 +46,7 @@ Download the ResNet-101 or ResNet-50 model trained on the ImageNet and put this 
 
 
 ## Test   
-1. Please download our pretrained model at [Google Drive](https://drive.google.com/open?id=1FLehQ4iX0qdm6shwN4Cp0L2EzVPAXNZW).   
-   Put this model in `./examples/SAC-Net/SAC-Net-res101/snapshot/`.
+1. Please use the trained model and put the model in `./examples/SAC-Net/SAC-Net-res101/snapshot/`.
 
 2. Enter the `./examples/` and run `test_saliency.m` in Matlab. 
 
